@@ -1,0 +1,1 @@
+This machine learning challenge is intended for complete beginners. To begin, download the Occupancy Detection Data Set from the UCI Machine Learning Repository.
